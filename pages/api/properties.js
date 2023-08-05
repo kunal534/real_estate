@@ -14,7 +14,7 @@ export default async function handler(req, res) {
     },
     headers: {
       "x-rapidapi-host": "realty-in-us.p.rapidapi.com",
-      "x-rapidapi-key": 'e60d9a8844msh430396f611b5f24p13609ajsn19036d6a37dc',
+      "x-rapidapi-key": NEXT_PUBLIC_RAPIDAPI_KEY,
     },
   };
 
